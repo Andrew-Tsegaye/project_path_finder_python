@@ -24,4 +24,4 @@ You can modify the maze by editing the `maze` variable at the top of the script.
 
 This program is licensed under the MIT [License](https://opensource.org/license/mit/). See the LICENSE file for more information.
 
-By programmer [Andrew-Tsegaye](www.github.com/Andrew-Tsegaye)
+By programmer [Andrew Tsegaye](https://github.com/Andrew-Tsegaye)
